@@ -59,7 +59,6 @@ function Projects() {
           <div className='my-1'>
             {item.tags.map((tag) => (
             <button key={tag.id} className='btn success_btn mr-4'> {tag.name}</button>
-              
             ))}
           </div>
 

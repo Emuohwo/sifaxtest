@@ -43,7 +43,7 @@ const PROJECTS_LIST = [
 
 function Projects() {
   return (
-    <div className='p-3'>
+    <div className='p-3 project_Page_container'>
       <h2> Working</h2>
       {PROJECTS_LIST.map((item) => (
         

@@ -1,0 +1,10 @@
+
+.project_list_container {
+  border-radius: 20px;
+  padding: 4px;
+}
+
+.success_btn {
+  color: green;
+  background: rgba(0, 128, 0, 0.422);
+}

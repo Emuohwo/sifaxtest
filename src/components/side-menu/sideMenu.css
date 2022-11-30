@@ -1,0 +1,8 @@
+
+
+.side_menu_li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: rgb(145, 142, 142);
+}

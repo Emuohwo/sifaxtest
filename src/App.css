@@ -4,6 +4,9 @@ html, body {
   color: black;
   font-weight: 300;
 }
+* {
+  box-sizing: border-box;
+}
 
 a {  
   color: rgb(145, 142, 142);

@@ -1,7 +1,11 @@
-.top_heade {
-  background: red;
-}
+
 .top_header_container {
   position: fixed;
   width: 100%;
+  z-index: 10;
+}
+
+/* headerLeftSide starts here */
+.headerLeftSide {
+  width: 20%;
 }

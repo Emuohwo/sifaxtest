@@ -36,7 +36,7 @@ const SIDE_MENU_LINKS = [
 
 function SideMenu() {
   return (
-    <div className='pt-4 pl-2'>
+    <div className='pt-4 pl-2 mt-4'>
       <ul>
         {SIDE_MENU_LINKS.map((item) => (
           <li key={item.id} className='d-flex side_menu_li my-2'> 
